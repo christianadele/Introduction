@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Christiana
+# 👋 Hello, I'm Christiana Oladele
 
 Cybersecurity professional specializing in **penetration testing** and **application security**. I break things to understand how to protect them.
 
